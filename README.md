@@ -12,7 +12,7 @@ I'm **Afiq Zainidar**, a final-year Bachelor of Applied Mathematics student at *
 ### 🌟 Skills:
 - Programming: **C, C++, Python, R, SQL**
 - Data Visualization: Currently diving into **Power BI** and **Tableau**
-- Analytical Thinking: Combining math and programming to solve problems.
+- Analytical Thinking: Combining math/statistic and programming to solve problems.
 
 ### 🔗 Let's connect!
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/afiqzainidar/)  
